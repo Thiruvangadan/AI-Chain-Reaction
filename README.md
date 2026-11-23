@@ -4,7 +4,7 @@ A turn-based strategy game built using **Python and Pygame**, featuring a comput
 
 The game supports local two-player gameplay and playing against the computer. It can also run directly in a web browser using Pygbag.
 
-**Play Online:** https://thiruvangadan.github.io/chain-reaction-live/
+**Play Online:** https://thiruvangadan.github.io/AI-Chain-Reaction
 
 ## Game Overview
 
@@ -139,7 +139,6 @@ The browser version is deployed through GitHub Pages using GitHub Actions.
 chain-reaction-live/
 │
 ├── main.py
-├── requirements.txt
 │
 └── .github/
     └── workflows/
@@ -153,11 +152,3 @@ chain-reaction-live/
 - Optimize AI performance for browser execution.
 - Introduce additional board sizes and game variations.
 - Explore online multiplayer functionality.
-
-## Author
-
-**Ashwanth**
-
-[GitHub Profile](https://github.com/Thiruvangadan)
-
-[Project Repository](https://github.com/Thiruvangadan/chain-reaction-live)
